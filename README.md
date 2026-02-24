@@ -17,7 +17,7 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 *[Link to project will go here]* - Developed a robotic assistant for task management using ROS2, integrating multimodal inputs (vision/audio) and prompt engineering to enhance Human-Robot interaction.
 
 **👁️ Artificial Vision**
-*[Link to project will go here]* - Detection and tracking system for sports analytics using Re-Identification algorithms, integrating CNN and Transformer-based architectures with BotSort tracking.
+*[Hybrid-Transformer-Soccer-Tracker](https://github.com/Alex-Cuciniello/Hybrid-Transformer-Soccer-Tracker)* - Detection and tracking system for sports analytics using Re-Identification algorithms, integrating CNN and Transformer-based architectures with BotSort tracking.
 
 **🧠 Generative AI**
 *[Link to project will go here]* - Neural networks for high-fidelity facial image synthesis conditioned on specific attributes, leveraging experimental MAMBA architecture and Diffusion Models trained on the CelebA Dataset.
