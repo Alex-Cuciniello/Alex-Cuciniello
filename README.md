@@ -26,7 +26,7 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 *[Link to project will go here]* - Instance segmentation neural network featuring a custom Encoder-Decoder architecture for off-road environmental perception, terrain traversability, and obstacle detection.
 
 **⚡ Embedded Systems**
-*[Link to project will go here]* - Embedded control software and Finite State Machine in C for STM32, utilizing Model-Based Design with MATLAB/Simulink and automatic code generation.
+*[House-STM32](https://github.com/Alex-Cuciniello/House-STM32)* - Embedded control software and Finite State Machine in C for STM32, utilizing Model-Based Design with MATLAB/Simulink and automatic code generation.
 
 **🌐 IoT Real-Time Architecture (B.Sc. Thesis)**
 *[Link to project will go here]* - Change Data Capture (CDC) architecture for IoT applications, implementing real-time data streaming pipelines with Apache Kafka, Debezium, PostgreSQL, and MongoDB.
