@@ -14,7 +14,7 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 *Here you will find my academic work, organized by exams:*
 
 **🤖 Cognitive Robotics**
-*[Link to project will go here]* - Developed a robotic assistant for task management using ROS2, integrating multimodal inputs (vision/audio) and prompt engineering to enhance Human-Robot interaction.
+*[Robotic-Assistant-ROS2](https://github.com/Alex-Cuciniello/Robotic-Assistant-ROS2)* - Developed a robotic assistant for task management using ROS2, integrating multimodal inputs (vision/audio) and prompt engineering to enhance Human-Robot interaction.
 
 **👁️ Artificial Vision**
 *[Hybrid-Transformer-Soccer-Tracker](https://github.com/Alex-Cuciniello/Hybrid-Transformer-Soccer-Tracker)* - Detection and tracking system for sports analytics using Re-Identification algorithms, integrating CNN and Transformer-based architectures with BotSort tracking.
