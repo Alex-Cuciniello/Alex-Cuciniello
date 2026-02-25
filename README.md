@@ -23,7 +23,7 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 *[Link to project will go here]* - Neural networks for high-fidelity facial image synthesis conditioned on specific attributes, leveraging experimental MAMBA architecture and Diffusion Models trained on the CelebA Dataset.
 
 **📊 Machine Learning**
-*[Link to project will go here]* - Instance segmentation neural network featuring a custom Encoder-Decoder architecture for off-road environmental perception, terrain traversability, and obstacle detection.
+*[Image-Segmentation-OffRoad-Classification](https://github.com/Alex-Cuciniello/Image-Segmentation-OffRoad-Classification)* - Instance segmentation neural network featuring a custom Encoder-Decoder architecture for off-road environmental perception, terrain traversability, and obstacle detection.
 
 **⚡ Embedded Systems**
 *[House-STM32](https://github.com/Alex-Cuciniello/House-STM32)* - Embedded control software and Finite State Machine in C for STM32, utilizing Model-Based Design with MATLAB/Simulink and automatic code generation.
