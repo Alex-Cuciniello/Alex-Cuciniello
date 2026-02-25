@@ -29,7 +29,7 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 *[House-STM32](https://github.com/Alex-Cuciniello/House-STM32)* - Embedded control software and Finite State Machine in C for STM32, utilizing Model-Based Design with MATLAB/Simulink and automatic code generation.
 
 **🌐 IoT Real-Time Architecture (B.Sc. Thesis)**
-*[Link to project will go here]* - Change Data Capture (CDC) architecture for IoT applications, implementing real-time data streaming pipelines with Apache Kafka, Debezium, PostgreSQL, and MongoDB.
+*[Change-Data-Capture-DebeziumKafka-MongoDB-MinIO](https://github.com/Alex-Cuciniello/Change-Data-Capture-DebeziumKafka-MongoDB-MinIO)* - Change Data Capture (CDC) architecture for IoT applications, implementing real-time data streaming pipelines with Apache Kafka, Debezium, PostgreSQL, and MongoDB.
 
 ## 🎸 Hobbies & Side Projects
 *[Link to project will go here]* - Stay tuned! New personal projects coming soon.
