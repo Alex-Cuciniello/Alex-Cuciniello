@@ -20,7 +20,7 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 *[Hybrid-Transformer-Soccer-Tracker](https://github.com/Alex-Cuciniello/Hybrid-Transformer-Soccer-Tracker)* - Detection and tracking system for sports analytics using Re-Identification algorithms, integrating CNN and Transformer-based architectures with BotSort tracking.
 
 **🧠 Generative AI**
-*[Link to project will go here]* - Neural networks for high-fidelity facial image synthesis conditioned on specific attributes, leveraging experimental MAMBA architecture and Diffusion Models trained on the CelebA Dataset.
+*[Link to project will go here]* - Neural networks for high-fidelity facial image synthesis conditioned on specific attributes, leveraging Diffusion Models trained on the CelebA Dataset.
 
 **📊 Machine Learning**
 *[Image-Segmentation-OffRoad-Classification](https://github.com/Alex-Cuciniello/Image-Segmentation-OffRoad-Classification)* - Instance segmentation neural network featuring a custom Encoder-Decoder architecture for off-road environmental perception, terrain traversability, and obstacle detection.
