@@ -13,6 +13,9 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 ## 📚 University Projects
 *Here you will find my academic work, organized by exams:*
 
+**🧭 Intelligent Robot Navigation**  
+*[TurtleBot-Search-Follow](https://github.com/Alex-Cuciniello/TurtleBot-Search-Follow)* - Autonomous search-and-follow system for TurtleBot4 using ROS2 and Nav2, integrating optimized waypoint exploration, custom Behavior Trees, OpenCV ArUco detection, TF-based pose transformations, costmap-aware navigation, and Kalman-based prediction for robust target following under short visual occlusions.
+
 **🤖 Cognitive Robotics**
 *[Robotic-Assistant-ROS2](https://github.com/Alex-Cuciniello/Robotic-Assistant-ROS2)* - Developed a robotic assistant for task management using ROS2, integrating multimodal inputs (vision/audio) and prompt engineering to enhance Human-Robot interaction.
 
