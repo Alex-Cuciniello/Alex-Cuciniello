@@ -45,5 +45,5 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 **Tools & Environment:** Git, Linux, Docker.
 
 ## 📫 How to reach me
-**LinkedIn:** [[Alex Cuciniello](https://www.linkedin.com/in/alex-cuciniello/)]
+**LinkedIn:** [Alex Cuciniello](https://www.linkedin.com/in/alex-cuciniello/)
 **Email:** [alex.cuciniello@gmail.com](mailto:alex.cuciniello@gmail.com)
