@@ -19,7 +19,7 @@ I use this space as my technical portfolio, collecting university projects, rese
 *Here you will find my academic work, organized by exams:*
 
 
-**💬 LLM & NLP**  
+**💬 LLM & NLP**
 *[DIEM-Agentic-RAG-Assistant](https://github.com/Alex-Cuciniello/DIEM-Agentic-RAG-Assistant)* - Source-grounded agentic RAG assistant for the University of Salerno's DIEM department, using LangGraph, Qdrant and BGE-M3 embeddings with query planning, metadata-aware retrieval, response validation and an automated web/PDF ingestion pipeline.
 
 
