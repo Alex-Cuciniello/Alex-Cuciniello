@@ -1,17 +1,27 @@
 # Hi there 👋, I'm Alex
 
-Welcome to my GitHub profile! I'm a student with a strong passion for **Artificial Intelligence** and **Robotics**.
-I treat this space as my digital portfolio, where I collect and showcase my university projects and my continuous learning journey.
+Welcome to my GitHub profile!
+
+I'm an **M.Sc. candidate in Computer Engineering – Artificial Intelligence & Robotics** at the University of Salerno, with a strong interest in **Robot Learning, Multimodal AI, Computer Vision and Large Language Models**.
+
+I use this space as my technical portfolio, collecting university projects, research work and experiments that translate theoretical concepts into real-world AI and robotics applications.
 
 ---
 
 ## 👨‍💻 About Me
-* 🎓 Currently studying an M.Sc. in Computer Engineering - AI & Robotics at the University of Salerno.
-* 💡 Always looking to learn new technologies.
-* 🚀 Goal: Keep memory, share my work, and translate theoretical knowledge into real-world applications.
+
+* 🎓 M.Sc. candidate in Computer Engineering – AI & Robotics at the University of Salerno.
+* 🤖 Currently working on my Master's Thesis in **Multi-Task Imitation Learning for Robotic Manipulation**, evaluating Vision-Language-Action models on a real UR5e platform.
+* 🧠 Interested in Robot Learning, World Models, Multimodal AI, Computer Vision and LLM-based systems.
+* 🚀 I enjoy turning research ideas into working systems and documenting my projects as part of my technical portfolio.
 
 ## 📚 University Projects
 *Here you will find my academic work, organized by exams:*
+
+
+**💬 LLM & NLP**  
+*[DIEM-Agentic-RAG-Assistant](https://github.com/Alex-Cuciniello/DIEM-Agentic-RAG-Assistant)* - Source-grounded agentic RAG assistant for the University of Salerno's DIEM department, using LangGraph, Qdrant and BGE-M3 embeddings with query planning, metadata-aware retrieval, response validation and an automated web/PDF ingestion pipeline.
+
 
 **🧭 Intelligent Robot Navigation**
 *[TurtleBot-Search-Follow](https://github.com/Alex-Cuciniello/TurtleBot-Search-Follow)* - Autonomous search-and-follow system for TurtleBot4 using ROS2 and Nav2, integrating optimized waypoint exploration, custom Behavior Trees, OpenCV ArUco detection, TF-based pose transformations, costmap-aware navigation, and Kalman-based prediction for robust target following under short visual occlusions.
@@ -38,11 +48,12 @@ I treat this space as my digital portfolio, where I collect and showcase my univ
 *[Link to project will go here]* - Stay tuned! New personal projects coming soon.
 
 ## 🛠️ Tech Stack & Tools
-**Languages:** Python, C/C++, Java, JavaScript, SQL, R, HTML, Bash.
-**AI/ML Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV.
-**Robotics & Simulation:** ROS2, MATLAB/Simulink.
-**Data Engineering & Databases:** Apache Kafka, Debezium, PostgreSQL, MongoDB.
-**Tools & Environment:** Git, Linux, Docker.
+**Programming:** Python, C/C++, SQL, Bash, Java, JavaScript, R  
+**AI & Machine Learning:** PyTorch, TensorFlow, OpenCV, Hugging Face  
+**LLM & RAG:** LangChain, LangGraph, LangSmith, Qdrant, Ollama, Gradio  
+**Robotics:** ROS2, Nav2, MATLAB/Simulink  
+**Data Engineering:** Apache Kafka, Debezium, PostgreSQL, MongoDB  
+**Tools & Environment:** Git, Linux, Docker
 
 ## 📫 How to reach me
 **LinkedIn:** [Alex Cuciniello](https://www.linkedin.com/in/alex-cuciniello/)
